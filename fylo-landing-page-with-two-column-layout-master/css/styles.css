@@ -1,0 +1,74 @@
+.row{
+  padding: 50px 50px 50px 50px;
+}
+.navbar{
+  padding: 10px 10px 10px 10px;
+}
+.navbar-brand{
+  padding-top: 10px;
+  padding-left: 50px;
+}
+.main-heading{
+  line-height: 1.7;
+  font-size: 2.8rem;
+}
+.basic{
+  line-height: 1.7;
+  font-size: 1.2rem;
+}
+.card-img-bottom{
+  border-radius: 100%;
+
+}
+.light-colored{
+  background-color: #827397;
+  color: #fff;
+  margin-bottom: 0px;
+}
+.dark-colored{
+  color: #fff;
+  margin-top: 0px;
+  background-color: #363062;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+.page-footer{
+  background-color: #363062
+}
+.block{
+  background-color: grey;
+}
+.quote-card {
+  background:#fff;
+  color: #222222;
+padding: 20px 0px 20px 20px;
+  box-sizing: border-box;
+  border-style: groove;
+  box-shadow: 0 2px 4px rgba(34, 34, 34, 0.12);
+  position: relative;
+  overflow: hidden;
+  min-height: 120px;
+  width: 400px;
+}
+
+.avatar{
+  border-radius: 50%;
+  float: left;
+}
+.caption{
+  font-size: 0.9rem;
+}
+.quoted{
+  font-size: 3rem;
+}
+.anchor{
+  color:green;
+}
+.attribution{
+  text-align: center;
+  font-size: 1rem;
+  color: white;
+}
+.dark-colored.a{
+  color: #fff;
+}
